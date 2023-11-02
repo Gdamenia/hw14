@@ -1,0 +1,114 @@
+@media (width > 768px){
+
+
+    header{
+        overflow: visible;
+        width: 768px;
+    }
+
+    .shapeNone{
+        display: block;
+        position: absolute;
+        top: 1px;
+        left: -137px;
+        width: 384px;
+        height: 384px;
+        border-radius: 384px;
+        opacity: 0.15;
+        background: #FF7B40;
+        filter: blur(67.95704650878906px);
+    }
+
+    .container{
+        overflow: hidden;
+        position: relative;
+        width: 768px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .firstBox{
+        width: 768px;
+    }
+
+    .musicText{
+        width: 520px;
+    }
+
+    h2{
+        font-size: 64px;
+        line-height: 64px; 
+        letter-spacing: -0.727px;
+    }
+
+    .pFirst{
+        width: 514px;
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .secondBox1{
+        width: 700px;
+    }
+
+    .phone{
+        left: 190px;
+    }
+    .leftBlue{
+        left: 90px;
+    }
+    .orangeLeft{
+        left: 190px;
+        top: 70px;
+    }
+    .whiteCircle{
+        top: 10px;
+        left: 265px;
+    }
+    .shapeRight{
+        top: 20px;
+        right: 228px;
+    }
+    .moon{
+        top:212px;
+        left: 207px;
+    }
+
+    .secondBox2{
+        top:-476px;
+        left:222px;
+    }
+
+    footer{
+        top: -460px;
+        width: 768px;
+        flex-direction: row;
+        justify-content: space-between;
+        padding-bottom: 85px;
+    }
+    .footerText{
+        width: 366px;
+    }
+
+    .logos{
+        margin-right: 24px;
+        margin-top: 162px;
+    }
+
+    .shapeFirst{
+        right: 130px;
+        top: 50px;
+    }
+    .shapeHeader{
+        top: 1px;
+        right: 60px;
+    }
+    .grupavoi{
+        display: block;
+        position: absolute;
+        top: 0;
+        right: 0;
+    }
+
+}
